@@ -4,12 +4,14 @@
 
 
 header {
-    height: 50px;
+    height: 200px;
+    width: 100%;
     background-color: red;
     color: white;
 }
 section {
-    height: 200px;
+    height: 500px;
+    width: 100%;
     background-color: green;
     color: blue;
 }
