@@ -9,6 +9,13 @@ header {
   text-align: center;
   background: white;
 }
+.header-top {
+  padding: 15px;
+  font-size: 10px;
+  text-align: right;
+  background: white;
+  margin-bottom: 2%;
+}
 .leftcolumn {
   float: left;
   width: 75%;
